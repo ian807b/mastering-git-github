@@ -1,0 +1,10 @@
+# .gitignore
+# Assigning files to be ignored
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
